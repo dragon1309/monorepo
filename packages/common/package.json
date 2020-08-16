@@ -1,0 +1,14 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "Common Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo testing common with version: $npm_package_version"
+  },
+  "author": "draco.hoang",
+  "license": "ISC",
+  "dependencies": {
+    "sillyname": "0.1.0"
+  }
+}
